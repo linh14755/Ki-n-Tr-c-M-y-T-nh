@@ -1,1 +1,1 @@
-# Ki-n-Tr-c-M-y-T-nh
+# Kiến Trúc Máy Tính
